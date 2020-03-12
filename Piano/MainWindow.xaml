@@ -37,7 +37,7 @@
     </Window.Resources>
     <Grid>
 
-        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" BorderBrush="Black" Template="{DynamicResource ButtonControlTemplate1}">
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" BorderBrush="Black" Template="{DynamicResource ButtonControlTemplate1}" Click="Button_Click">
 
         </Button>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" BorderBrush="Black" Margin="100,0,0,0" Template="{DynamicResource ButtonControlTemplate1}"/>
